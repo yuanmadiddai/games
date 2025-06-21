@@ -27,6 +27,8 @@
 4.针对ios系统api进行升级；
 
 5.修复发布lua资源加密报错
+# 部分游戏源码截图
+![image](https://github.com/user-attachments/assets/a780cf8b-bd17-4c2e-a59e-76f53e65f40b)
 
 
 # 情怀棋牌源码子游戏介绍
