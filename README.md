@@ -29,6 +29,13 @@
 5.修复发布lua资源加密报错
 # 部分游戏源码截图
 ![image](https://github.com/user-attachments/assets/a780cf8b-bd17-4c2e-a59e-76f53e65f40b)
+![image](https://github.com/user-attachments/assets/0fff6d82-213a-4e91-93cc-e2aa0e65b3a9)
+![image](https://github.com/user-attachments/assets/4fd117e2-d133-40e3-b0a3-8eb1474706e4)
+![image](https://github.com/user-attachments/assets/84198548-b1c1-46a8-b3f8-adb8ea72c906)
+![image](https://github.com/user-attachments/assets/3b495989-bb53-48d0-a38a-4ff79965eccf)
+![image](https://github.com/user-attachments/assets/c6ae1097-8652-49cb-911b-6c5888f17fac)
+![image](https://github.com/user-attachments/assets/33ce19e1-d5a9-43de-a69a-49715eafae63)
+![image](https://github.com/user-attachments/assets/75adf433-82bf-464b-8264-2d1a13892e98)
 
 
 # 情怀棋牌源码子游戏介绍
